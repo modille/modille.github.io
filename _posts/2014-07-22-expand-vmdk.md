@@ -17,9 +17,9 @@ Note: YMMV; I did this using a Windows 8 host, Fedora 20 guest, and VirtualBox 4
 <li>Add a hard disk to the controller. Make it the same type as your current disk, and make it the size you need</li>
 <li>Once it’s created open a command prompt and head to the directory containing <code>vboxmanage.exe</code> – typically in <code>C:\Program Files\Oracle\VirtualBox\</code></li>
 <li>Run the following, altering the paths to match your current and new VMDK files:
-  {% highlight bash %}
-  vboxmanage clonehd "C:\vm\fedora20-disk1.vmdk" "C:\vm\NewVirtualDisk.vmdk" --existing
-  {% endhighlight %}</li>
+{% highlight bash %}
+vboxmanage clonehd "C:\vm\fedora20-disk1.vmdk" "C:\vm\NewVirtualDisk.vmdk" --existing
+{% endhighlight %}</li>
 <li>Once that’s complete, reopen the VirtualBox Manager and head back to Settings > Storage</li>
 <li>Add an existing hard disk to your controller, choosing your new drive</li>
 <li>Disconnect your original drive</li>
