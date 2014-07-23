@@ -6,3 +6,4 @@ timezone: America/New_York
 lsi: false
 highlighter: pygments
 safe: true
+markdown: kramdown
