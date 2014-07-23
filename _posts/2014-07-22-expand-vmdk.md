@@ -9,7 +9,7 @@ and used the following steps to grow the VMDK.
 
 Note: YMMV; I did this using a Windows 8 host, Fedora 20 guest, and VirtualBox 4.3.12
 
-# Create new VMDK
+# Create new VMDK {#create-new-vmdk}
 
 <ol>
 <li>Shut down your VM</li>
@@ -26,7 +26,7 @@ vboxmanage clonehd "C:\vm\fedora20-disk1.vmdk" "C:\vm\NewVirtualDisk.vmdk" --exi
 <li>Select your new drive and set it to SATA Port 0</li>
 </ol>
 
-# Boot into live CD
+# Boot into live CD {#boot-into-live-cd}
 
 I booted into a live CD so that my `/dev/sda2` partition wasn't mounted. This may have actually been optional, since
 my partitions were setup with LVM.
@@ -35,7 +35,7 @@ my partitions were setup with LVM.
 2. Mount it to your VM using `Devices > CD/DVD Devices > Choose...`
 3. Restart your VM to boot into the live CD
 
-# Resize the /dev/sda2 partition
+# Resize the /dev/sda2 partition {#resize-dev-sda2-partition}
 
 Again, you might be able to just use gparted, depending on your setup. Fedora 20 doesn't have any graphical partition
 manager that I'm aware of, so I did the following:
@@ -61,7 +61,7 @@ $ sudo fdisk /dev/sda
 <li>Restart your VM to get the new partition table</li>
 </ol>
 
-# Resize home volume
+# Resize home volume {#resize-home-volume}
 
 <ol>
 <li>Again boot into the live CD, open a terminal, and do the following:
