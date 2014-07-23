@@ -153,7 +153,7 @@ pre {
   background: rgba(0, 0, 0, 0.9);
   border: 1px solid rgba(255, 255, 255, 0.15);
   padding: 10px;
-  font-size: 14px;
+  font-size: 10px;
   color: #b5e853;
   border-radius: 2px;
   -moz-border-radius: 2px;
@@ -244,4 +244,13 @@ a {
 
 .cf {
   zoom:1;
+}
+
+#main_content > #post {
+  padding-bottom: 30px;
+}
+
+#related {
+  border-top: 1px dashed #666;
+  padding-top: 30px;
 }
