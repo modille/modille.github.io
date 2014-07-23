@@ -4,5 +4,5 @@ timezone: America/New_York
 
 # GitHub default overrides
 lsi: false
-pygments: true
+highlighter: pygments
 safe: true
