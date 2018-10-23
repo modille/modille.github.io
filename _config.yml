@@ -1,4 +1,3 @@
-highlighter: pygments
 lsi: false
 plugins:
   - jemoji
