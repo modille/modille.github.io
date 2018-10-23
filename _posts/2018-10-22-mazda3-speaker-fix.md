@@ -19,9 +19,9 @@ After searching online, I came across numerous posts that mentioned the same iss
 Someone discovered that it was due to a piece of the speaker assembly rusting out and coming apart.
 There is a drip guard above the speaker, but apparently it does not guard enough!
 
-- https://mazda3revolution.com/forums/new-member-introduction-forum-news-guide/179170-2014-bose-speaker-rattle-solution.html
-- https://mazda3revolution.com/forums/2014-2018-mazda-3-skyactiv-audio-electronics/229011-bose-speaker-rattling.html
-- https://www.youtube.com/watch?v=W2LQWzRVo-c
+- [https://mazda3revolution.com/forums/new-member-introduction-forum-news-guide/179170-2014-bose-speaker-rattle-solution.html](https://mazda3revolution.com/forums/new-member-introduction-forum-news-guide/179170-2014-bose-speaker-rattle-solution.html)
+- [https://mazda3revolution.com/forums/2014-2018-mazda-3-skyactiv-audio-electronics/229011-bose-speaker-rattling.html](https://mazda3revolution.com/forums/2014-2018-mazda-3-skyactiv-audio-electronics/229011-bose-speaker-rattling.html)
+- [https://www.youtube.com/watch?v=W2LQWzRVo-c](https://www.youtube.com/watch?v=W2LQWzRVo-c)
 
 There's even a Technical Service Bulletin for it:
 
