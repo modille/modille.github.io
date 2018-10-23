@@ -53,6 +53,34 @@ The total cost was about $10.
 1. I re-connected and re-attached the front door panels.
 1. I adjusted the equalizer in the Mazda and on my phone to return to normal levels.
 
+![](/images/2018-10-22-mazda3-speaker-fix/IMG_5467.png)
+
+![](/images/2018-10-22-mazda3-speaker-fix/IMG_5468.png)
+
+![](/images/2018-10-22-mazda3-speaker-fix/IMG_5469.png)
+
+![](/images/2018-10-22-mazda3-speaker-fix/IMG_5470.png)
+
+![](/images/2018-10-22-mazda3-speaker-fix/IMG_5471.png)
+
+![](/images/2018-10-22-mazda3-speaker-fix/IMG_5472.png)
+
+![](/images/2018-10-22-mazda3-speaker-fix/IMG_5475.png)
+
+![](/images/2018-10-22-mazda3-speaker-fix/IMG_5479.png)
+
+![](/images/2018-10-22-mazda3-speaker-fix/IMG_5480.png)
+
+![](/images/2018-10-22-mazda3-speaker-fix/IMG_5480.png)
+
+![](/images/2018-10-22-mazda3-speaker-fix/IMG_5481.png)
+
+![](/images/2018-10-22-mazda3-speaker-fix/IMG_5482.png)
+
+![](/images/2018-10-22-mazda3-speaker-fix/IMG_5486.png)
+
+![](/images/2018-10-22-mazda3-speaker-fix/IMG_5487.png)
+
 Surprisingly enough, the door handles/buttons/windows were still functional and the speakers sounded perfect!
 
 :metal:
