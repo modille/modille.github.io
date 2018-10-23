@@ -42,7 +42,7 @@ The total cost was about $10.
 
 ### Process
 
-1. I removed and disconnected both front door panels. One fastener clip _(Door Trim Panel Fastener - Mazda Part GJ6A-68-AB1)_ broke as I removed the panels, and about 4 more were broken as I removed them from the door frame.
+1. I removed and disconnected both front door panels. One fastener clip broke as I removed the panels, and about 4 more were broken as I removed them from the door frame.
 1. I disconnected the speakers and removed them.
 1. I used some sandpaper to roughen up the surfaces that were to be glued together.
 1. I glued the surfaces together with Gorilla Epoxy and let it dry overnight.
