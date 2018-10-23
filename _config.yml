@@ -1,8 +1,6 @@
-# NOTE: Tabs are evil. Use spaces.
-
-timezone: America/New_York
-
-# GitHub default overrides
-lsi: false
 highlighter: pygments
+lsi: false
+plugins:
+  - jemoji
 safe: true
+timezone: America/New_York
